@@ -1,2 +1,2 @@
 # kyotobob.github.io
-A list of my cocktail recipes for a W3C class
+A site dedicated to the men and women who have shaped our digital world.
